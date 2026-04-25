@@ -1,3 +1,6 @@
 # TP-Integrador
 ##integrantes
--Nahuel-Perez
+-MARÍA-LÓPEZ-LOUIS
+-JHONATHAN-MIRANDA
+-NAHUEL-PEREZ
+-FACUNDO-VELARDE
